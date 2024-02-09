@@ -1,29 +1,26 @@
 ---
 layout: post
-title:  "Fly!"
-date:   2024-02-03 18:35:22 -0500
-categories: jekyll update
+title:  "Maria Ressa: “Silence is consent.”"
+date:   2024-02-09 17:50:22 -0500
+categories: [Maria Ressa, education]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Yesterday, I met one of my heroes. Before yesterday, I failed to mentally and emotionally prepare myself for such a moment. She entered the room where we were about to have a discussion group and the way she smiled at me when she was approaching her seat was nerve-wracking. When she started to talk, all her lectures and symposiums I had watched on YouTube suddenly came to life and appeared 2 physical meters from me. 
 
-Jekyll requires blog post files to be named according to the following format:
+We then started, introducing ourselves to her. I didn’t know what to say; I didn’t want to be pretentious in my introduction. I wanted to be authentic, so I did not prepare anything. Words came out of my mouth. It was enough to explain the purpose of my presence in the meeting, but it was not enough to express my high due to her presence. So I interjected, “Sorry, I’m so starstruck right now. I’ve watched all your lectures and your Nobel Prize lecture probably three times now.” To which she responded, “I’m sorry if I bored you.” “Not at all,” I reaffirmed. 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+The attention span I exuded was unbelievably unwavering. Her eloquence and stature attracted my full attentiveness. Her talking about her work back at Rappler and her current responsibilities made me feel more special as she was able to squeeze time for us in her Nobel-Laureate schedule. Throughout the meeting, I was silently mesmerized until she stopped talking and invited us to ask her questions. I was hesitant at first because that was just me–being afraid that my question was not worthy enough to answer. But she looked at me and invited me to ask my question as if she knew that I wanted to ask something. Maybe it was obvious in my facial expression. I asked her the question without my usual fear. I said, not in the exact words,
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+“Growing up in the rural areas in the Philippines, I always have been apolitical in the sense that my parents don’t want me to risk my life speaking up and standing up for the truth. As someone who has multiple criminal cases that could lead to a total of 103 years of being incarcerated, where do you find your courage to hold the line?”
+“That’s a great question.”
 
-Jekyll also offers powerful support for code snippets:
+She then went on and on about the stories of her being arrested in the middle of her usual workday. It was a long response to a seemingly difficult question requiring an intense deep personal reflection. But in between these lines, I picked up, “It’s the little moments that decide the course of actions I pursue. I’m not sure if it’s courage, but I only do my work and in journalism, our work is to share with everyone the untarnished truth.” I believe she is referring to the harsh truth that some people in power may dislike and may express aversion to it being publicized. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Although she explicitly stated that she was not answering my question, I thought the message she wanted to come across the void I was able to pick up. Her message was admirable, I thought it was the best response I could have gotten from her. 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Summing up her morals and knowing what is right, she has held the line from the personal attacks of the government. The misuse of political power being displayed in front of her drove her to define the lines of not only her human rights but of society. We hold the line because we chose to address the injustices right in front of us. We hold the line because the very essence of our humanity is being compromised. We hold the line because the moment we choose silence, we misexpress consent. In her book, I remembered reading the letter one of her dying co-founders in Rappler sent her. 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+“Because not fighting would ignore the very real option that still exists: the handful of brave, honorable souls putting their lives on the line on the firm belief that Filipinos can get better; can choose to get better; deserve better. They represent, if not a cure, the lone path to cure too late for my benefit, perhaps, but for the next generation.”
+
+My question for a very long time of where my heroes get their courage to fight knowing the stakes are their lives is now answered by one of them. What’s only left to decide is the choice whether to take on the risk or not. This is the decision my parents have been shielding me from, but unfortunately, due to my stubbornness, I have managed to get out of the cover area to explore what they’re protecting me from.
+
+My lack of preparation, I realized, became necessary to my unfiltered queries and thoughts and her reinforcing responses.  In my own way, I also want to hold the line with Filipinos and for their benefit. “In the long term, the most important thing is education…” I believe it is, and my deep connection to the art of teaching is something I would hold on to for a long time. “In the medium term, it’s policy and legislation, to restore the rule of law in the virtual world…” Thus, it will be a supplement to my path to being a technologist. Finally, “In the short term, now, it’s just collaborate, collaborate, collaborate…” We, the youth, will work together as I have been and as we prepare to lead broken yet worthy-to-fix systems.

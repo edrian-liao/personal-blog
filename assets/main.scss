@@ -10,6 +10,11 @@
     font-style: italic;
 }
 
+.post-list-heading { 
+    font-size: 32px; 
+    font-weight: 800;
+}
+
 .page-link {
     font-family: 'Merriweather', serif;
 }
@@ -26,6 +31,19 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
 .post-content p {
     font-size: 20px;
 }
+
 .footnotes p{
     font-size: 15px;
 }
+
+.site-header {
+    border-top: 5px solid #08ec98;
+    border-bottom: none;
+}
+
+.site-footer {
+    border-top: none;
+}
+
+a { color: #0e9664; text-decoration: none; }
+a:visited { color: #0e9664; }

@@ -21,11 +21,13 @@
 title: Tayab
 email: hello@edliao.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Writing about aligning humanity with AI, disparities in the education system, and climate justice in the Philippines.
+  Writing about humanity's alignment with AI, disparities in the education system, and climate justice in the Philippines.
 baseurl: "/personal-blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.edliao.com/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: edrian_liao
+linkedin_username: edrianpaulliao
 github_username:  edrian-liao
+show_excerpts: true
 
 # Build settings
 theme: minima

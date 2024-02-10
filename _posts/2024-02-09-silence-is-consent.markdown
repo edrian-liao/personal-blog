@@ -4,7 +4,7 @@ title:  "Silence is consent."
 date:   2024-02-09 17:50:22 -0500
 categories: [Maria Ressa, education]
 ---
-Yesterday, I met one of my heroes: [Maria Ressa](https://en.wikipedia.org/wiki/Maria_Ressa). Before then, I failed to mentally and emotionally prepare myself for such a moment. She entered the room where we were about to have a discussion group and the way she smiled at me when she was approaching her seat was nerve-wracking. When she started to talk, all her lectures and symposiums I had watched on YouTube suddenly came to life, appeared two (physical) meters from me. [^1] 
+Yesterday, I met one of my heroes: [Maria Ressa](https://en.wikipedia.org/wiki/Maria_Ressa). Before then, I failed to mentally and emotionally prepare myself for such a moment. She entered the room where we were about to have a discussion group and the way she smiled at me when she was approaching her seat was nerve-racking. When she started to talk, all her lectures and symposiums I had watched on YouTube suddenly came to life, appeared two (physical) meters from me. [^1] 
 
 We then started, introducing ourselves to her. I didn’t know what to say; I didn’t want to be pretentious in my introduction. I wanted to be authentic, so I did not prepare anything. Words came out of my mouth. It was enough to explain the purpose of my presence in the meeting, but it was not enough to express my high due to her presence. So I interjected, _“Sorry, I’m so starstruck right now. I’ve watched all your lectures and your Nobel Prize lecture probably three times now.”_ To which she responded, _“I’m sorry if I bored you.”_ _“Not at all,”_ I reaffirmed. 
 

@@ -19,13 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tayab
-email: edrianpaul.liao@duke.edu
+email: hello@edliao.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My deepest thoughts and emotions about current events within education, AI/ML, 
-  and climate justice mostly within the context of the Philippines.
+  Writing about aligning humanity with AI, disparities in the education system, and climate justice in the Philippines.
 baseurl: "/personal-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: edrian_liao
+# twitter_username: edrian_liao
 github_username:  edrian-liao
 
 # Build settings

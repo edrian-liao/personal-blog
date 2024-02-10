@@ -1,0 +1,31 @@
+---
+---
+
+@import "minima";
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@0;1&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap');
+
+.site-title {
+    font-family: 'Old Standard TT', serif;
+    font-style: italic;
+}
+
+.page-link {
+    font-family: 'Merriweather', serif;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { 
+    font-family: 'Merriweather', serif;
+}
+
+.footer-heading {
+    font-family: 'Old Standard TT', serif;
+    font-style: italic;
+}
+
+.post-content p {
+    font-size: 20px;
+}
+.footnotes p{
+    font-size: 15px;
+}

@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+*Tayab* is a term in my regional language (Iloko) that means fly. The theme of my life has been a journey of reaching seemingly unreachable feats. I went from a kid living in one of the remote communities in the Philippines to a scholar at [Duke](https://duke.edu/), one of the most prestigious universities in the world. Who would have thought? Certainly not me...
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In a world full of privileges, I carry a pair of lens that not a lot of people here own. Because of this, my aim for this blog is to share this two-way lens that will enable people on both sides to see the other. My hope for this is to make the privileged few realize their power to bridge the widening gap and to give the disadvantaged the capacity to dream... to **fly**.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+*More about me on my [personal webpage](https://www.edliao.com/)*

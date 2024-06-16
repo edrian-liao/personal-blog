@@ -14,9 +14,12 @@ Unfortunately, the reason that first went to my mind when asked was financial st
 The Fall semester was about to end, and what made it worse was that it felt like everybody was ahead, and there I was, jobless for the next summer.
 
 > Others: “Have you interviewed for a SWE internship?”
-Ed: “I haven’t. Have you?”
-Others: “Yeah, I have three interviews on Friday.”
-Others: “Yeah, I already accepted my offer at [*insert a big tech company’s name]”
+
+> Ed: “I haven’t. Have you?”
+
+> Others: “Yeah, I have three interviews on Friday.”
+
+> Others: “Yeah, I already accepted my offer at [*insert a big tech company’s name]”
 
 # Intentionally listening to my voice and mine alone
 Realizing that the external pressure prevented me from planning my next steps, I had to step back and think about what I actually wanted.

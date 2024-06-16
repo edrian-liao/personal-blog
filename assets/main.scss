@@ -27,13 +27,18 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
     font-family: 'Merriweather', serif;
 }
 
+h1 {
+    font-weight: 600;
+    font-size: 20px;
+}
+
 .footer-heading {
     font-family: 'Old Standard TT', serif;
     font-style: italic;
 }
 
 .post-content p {
-    font-size: 20px;
+    font-size: 17px;
 }
 
 .footnotes p{

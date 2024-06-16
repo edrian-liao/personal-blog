@@ -34,7 +34,8 @@ Unfortunately, only a few institutions in the US ask the same questions as mysel
 # Quality over quantity
 Coming from a mindset of shooting my shot to as many places as possible, I attempted to apply to both. Writing my essays for the MIT Summer Research Program (MSRP) was a breeze as unlike those from my internship interview, I almost immediately came up with answers. I particularly liked my discussion of the community which strongly resonates with MIT’s strong tradition of “making a better world”. Said community is my hometown where I spent 18 years of my life. Spending time outside of it made me realize things that I would not have thought of had I stayed. These queries eventually materialized into a long-term [project](https://planet-tales.org/) that aims to reveal narratives of disadvantaged communities to those who have the means to initiate change.
 
-![Image](_site/assets/landing-page.png)
+![landing page](/personal-blog/assets/landing-page.png)
+*The landing page of the project's website*
 
 On the other hand, Stanford’s questions did not come as easy to answer as MIT’s, and more importantly, they had an explicitly mentioned preference toward US citizens which unfortunately is the case for almost all REU programs funded by the National Science Foundation (NSF). So I ended up applying to only a single research program.
 

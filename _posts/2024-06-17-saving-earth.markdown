@@ -11,7 +11,7 @@ It’s been two weeks since I started. After two days of orientation and trying 
 As the world continues to heat up, life on Earth continues to suffer, especially those who don't have the systems in place to combat the symptoms of climate change. The United Nations, thus, has focused its efforts on helping developing nations **adapt to the new world** and educating all countries to **mitigate the impacts of climate change** by establishing the 17 Sustainable Development Goals (SDGs). All nations are encouraged to pursue such goals as part of their national development strategy. As we attempt to show the next generations the beauty of life here on Earth, we are all tasked to monitor and meet such targets by 2030. 
 
 
-
+![Sustainable Development Goals](assets/sdg.png)
 
 Not to cause any panic, but there are only 6 years left, and the situation has not gotten any better. 
 Currently, the lab has identified several technologies related to space that might help in realizing these goals—satellite communication, satellite navigation and positioning, microgravity research, and most importantly, satellite Earth observation.
@@ -22,8 +22,13 @@ Do you remember the information highway that connects all people in the world an
 # Satellite Navigation and Planning
 The only reason why people are never lost in some countries is because of the Global Navigation Satellite Systems (GNSS), a multi-laterally operated system consisting of what we people typically refer to as the Global Positioning System (GPS). Such a system can speed up the transport of goods and "alleviate traffic bottlenecks" (Wood et al.). It could also track the movements of endangered species to help monitor and preserve wildlife, advancing SDGs 14 (“Life below Water”) and 15 (“Life on Land”).
 
+![gps](assets/gnss.png)
+
 # Microgravity Research
 Microgravity, a state of almost experiencing weightlessness in the International Space Station (ISS), can also expand the borders of medicinal research. Currently, the ISS National Laboratory is letting biotech firms conduct microfluidic research that involves testing an ultra-thin pump for delivering medications through the skin. It can also produce cardiac-like tissues that can only be made in microgravity conditions. This will revolutionize organ transplant procedure, hitting SDG 3 ("Good Health and Wellbeing").
+
+![ISS National Lab](assets/zero-g.png)
+*Space Enabled Research Group in the ISS National Lab. Source: MIT News*
 
 # Satellite Earth Observation
 Recently, there has been a significant increase in the number of micro- and nanosatellites brought to space from different countries - one of which is the Philippines – and other developing nations in Southeast Asia and Africa. You might be surprised. How can we afford to even send one? These satellites are not used to conduct astronomical and extraterrestrial exploration research. Most of them are used to send essential data back to the ground. These include but are not limited to:

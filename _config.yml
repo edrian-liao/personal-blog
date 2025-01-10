@@ -29,6 +29,7 @@ linkedin_username: edrianpaulliao
 github_username:  edrian-liao
 show_excerpts: true
 
+
 # Build settings
 theme: minima
 plugins:

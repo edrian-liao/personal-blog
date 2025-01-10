@@ -3,6 +3,7 @@ layout: post
 title:  "Saving Earth with Space Tech"
 date:   2024-06-16 10:50:46 -0500
 categories: [Space Tech, sustainability, research]
+permalink: /saving-earth-with-space-tech/
 ---
 When we hear the words "Space Tech", we often think of rockets, astronauts, Mars Exploration Rovers, NASA, etc., but this is only one side of the coin. The other side involves using space technology to improve (or shall I say, save) life on Earth—which is the focus of the lab that I'll be working in this summer.
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Spending winter break alone (not lonely)"
 date:   2024-06-04 10:01:30 -0500
 categories: [Reflections, research]
+permalink: /spending-winter-break/
 ---
 # The understated struggles of international students
 Last August 2023, I started applying for software engineering internships around the US—apparently, I was already late to the “game”. My peers have already been applying since the start of the summer. I got demoralized—it was not the best news to receive. But I continued since I’ve already set my mind. They said it was normal to apply to more than 50 companies—so I did. However, chances were so slim, rejections piled up, as expected. What was unusual was that my rejection email was sent 5 minutes after I submitted my application. It turns out that the company was unable to sponsor me a working visa.

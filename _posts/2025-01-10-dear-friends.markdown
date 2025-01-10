@@ -24,4 +24,4 @@ Yours truly and sent with *tanto amore*,
 
 Edrian ❤️
 
-_p.s. excuse my italian phrases - lowkey appreciating the beautiful language of ✨italia✨_
+_p.s. excuse my italian phrases - lowkey appreciating the beautiful language of ✨italia✨. also, this is a hidden blog post; the only reason you're seeing this is because you have the customized link._ 😉

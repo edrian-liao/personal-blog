@@ -2,7 +2,7 @@
 layout: post
 title:  "Silence is consent."
 date:   2024-02-09 17:50:22 -0500
-categories: [Maria Ressa, education]
+categories: [education, research]
 permalink: /silence-is-consent/
 ---
 Yesterday, I met one of my heroes: [Maria Ressa](https://en.wikipedia.org/wiki/Maria_Ressa). Before then, I failed to mentally and emotionally prepare myself for such a moment. She entered the room where we were about to have a discussion group and the way she smiled at me when she was approaching her seat was nerve-racking. When she started to talk, all her lectures and symposiums I had watched on YouTube suddenly came to life, appeared two (physical) meters from me. [^1] 

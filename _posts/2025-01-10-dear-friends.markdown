@@ -2,7 +2,7 @@
 layout: post
 title:  "dear friends,"
 date:   2025-01-10 10:06:29 -0500
-categories: [Reflections]
+categories: [reflections]
 hidden: true
 permalink: /letter-for-friends/
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Spending winter break alone (not lonely)"
 date:   2024-06-04 10:01:30 -0500
-categories: [Reflections, research]
+categories: [reflections, research]
 permalink: /spending-winter-break/
 ---
 # The understated struggles of international students

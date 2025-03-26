@@ -71,6 +71,36 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
 a { color: #0e9664; text-decoration: none; }
 a:visited { color: #0e9664; }
 
+form {
+    max-width: 50%;
+    margin: 2rem auto;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+  
+input, textarea, button {
+    width: 100%;
+    // align-items: center;
+    padding: 5px 0px 5px 5px;
+    margin: 5px 0px 0px -3px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-family: 'Merriweather', serif;
+}
+  
+button {
+    background-color: #0e9664;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+  
+button:hover {
+    background-color: #285827;
+}
+
 @media screen and (max-width: 800px) {
     .post-list-heading { 
         font-size: 24px; 

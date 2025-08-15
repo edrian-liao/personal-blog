@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "my dear iyo,"
-date:   2025-01-15 16:47:38 -0500
+date:   2025-08-15 16:47:38 -0500
 categories: [reflections]
 hidden: true
 permalink: /letter-for-iyo/

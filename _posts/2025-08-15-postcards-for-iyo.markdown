@@ -15,26 +15,26 @@ _sabado_
 
 i'm sure there's going to be a lot more memories and trips i want to share with you, so i might as well create this page for you. as promised, here are your picture requests.
 
-![](/personal-blog/assets/met-1.jpg)
+![](/personal-blog/assets/met-1.JPG)
 <br>
 i wish we could go here together someday.
 
-![](/personal-blog/assets/met-2.jpg)
+![](/personal-blog/assets/met-2.JPG)
 <br>
 sitting with these people, having a fun time, taking pictures of each other... you know, for the gram! 😂
 
-![](/personal-blog/assets/met-3.jpg)
+![](/personal-blog/assets/met-3.JPG)
 <br>
 ... and taking this selfie with me 💗
 
 <br>
 i was so tired when i took this picture. it was a few hours before my flight back to boston, so i was carrying my luggage with me. 😪 it was located in lower manhattan, so it took some time for me to come down from columbia. nonetheless, the trip was worth it. i wanted to keep my word to you. besides, the neighborhood looked cozy, and there were a lot of young fashionable people. i was having my main character moment, as you can imagine. 
 
-![](/personal-blog/assets/friends-1.jpg)
+![](/personal-blog/assets/friends-1.JPG)
 <br>
 it's an aesthetic-looking apartment. there were so many people taking pictures! i would have taken yours with it if you were here.
 
-![](/personal-blog/assets/friends-2.jpg)
+![](/personal-blog/assets/friends-2.JPG)
 <br>
 but for now, live vicariously through me in this picture. 
 

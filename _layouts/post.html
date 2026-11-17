@@ -45,7 +45,7 @@ layout: default
 
 <!-- Customize the current formatting to add the comment box below -->
 
-
+{%- if page.comments != false -%}
 <form action="https://formsubmit.co/hello@edliao.com" method="POST">
 <h2>Any thoughts?</h2>
 <!-- Required email field -->
@@ -61,3 +61,4 @@ layout: default
 
 <button type="submit">Send</button>
 </form>
+{%- endif -%}
